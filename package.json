@@ -1,0 +1,10 @@
+{
+  "name": "ts_crypto",
+  "version": "1.0.0",
+  "description": "typescript to make cryptocurrency",
+  "main": "index.js",
+  "repository": "git@github.com:kimjingo/tc_crypto.git",
+  "author": "Jay Kim <kimjingo@gmail.com>",
+  "license": "MIT",
+  "scripts": {"start": "node index.js", "prestart": "tsc"}
+}
