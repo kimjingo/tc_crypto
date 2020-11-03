@@ -6,5 +6,11 @@
   "repository": "git@github.com:kimjingo/tc_crypto.git",
   "author": "Jay Kim <kimjingo@gmail.com>",
   "license": "MIT",
-  "scripts": {"start": "node index.js", "prestart": "tsc"}
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
 }
